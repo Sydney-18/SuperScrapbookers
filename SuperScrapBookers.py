@@ -58,7 +58,7 @@ def setup():
 #Music
     fill(255)
     rect(1770, 570, 130, 350)
-#Undo/Reset
+#Undo/reset
     rect(1770, 920, 65, 80)#undo
     rect(1835, 920, 65, 80)#reset
 #Pages
